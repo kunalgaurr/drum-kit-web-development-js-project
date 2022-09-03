@@ -75,12 +75,12 @@ body {
     background-color: white;
   }
   
-  @media(max-width:1000px){
+  @media(max-width:600px){
     .drum{
-    width: 350px;
+    width: 200px;
     height: 200px;
   text-align: center;
-  margin: 10px 10px 10px 323px;
+  margin: 10px 10px 10px 10px;
       display: block;
     }
   }
